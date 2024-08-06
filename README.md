@@ -14,4 +14,3 @@ Learning to use Google's Cloud Shell and git.
 
 - Application
 ![Application](/Cloud_Shell_Output.png)
-# GCP_Using_Cloud_Shell
